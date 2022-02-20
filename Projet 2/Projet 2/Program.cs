@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Projet_2
 {
@@ -6,7 +6,7 @@ namespace Projet_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+// test push            
         }
     }
 }
